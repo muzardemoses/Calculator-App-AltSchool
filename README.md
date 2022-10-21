@@ -38,7 +38,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub Repository](https://github.com/muzardemoses/Calculator-App)
-- Live Site URL: [Muzardemoses Calculator](https://your-live-site-url.com)
+- Live Site URL: [Muzardemoses Calculator](https://calculator.mosesadebayo1.repl.co/)
 
 ## My process
 
